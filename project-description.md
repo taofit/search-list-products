@@ -76,7 +76,7 @@ The name, price drop and formatted price of the product are displayed
 ## User story #3
 As a user running the application
 I can view a list of products while I type the search term
-So that I can get instant feedback of which products are currenlty available
+So that I can get instant feedback of which products are currently available
 
 ### Acceptance criteria
 Results are returned while the user enters the search term
